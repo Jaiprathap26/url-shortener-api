@@ -153,4 +153,17 @@ Docker support
 
 Cloud deployment
 
+## 🌐 Solution URL
+
+- **GitHub Repository:**  
+  https://github.com/jaiprathap26/url-shortener-api
+
+- **Local API Base URL:**  
+  http://127.0.0.1:5000
+
+- **Swagger API Documentation:**  
+  http://127.0.0.1:5000/docs
+
+
 https://roadmap.sh/projects/url-shortening-service
+
